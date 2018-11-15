@@ -1,0 +1,4 @@
+This is a Brave Payments publisher verification file.
+
+Domain: stobiewan.github.io
+Token: 6e7f3b1746fd902fe87cd714751bc74e74a21989fbad8a9461d9c045c716f21b
